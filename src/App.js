@@ -25,7 +25,7 @@ function App() {
       <header className="title-section">
         <h1 align="center">
         <a 
-          href="https://shiny-lollipop-95ae25.netlify.app/" 
+          href="https://fanciful-lily-6d38e5.netlify.app/" 
           target="_blank" 
           rel="noopener noreferrer"
         >
